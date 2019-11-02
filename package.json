@@ -1,0 +1,19 @@
+{
+  "name": "viz-esp",
+  "version": "1.0.0",
+  "description": "## Using Arduino-IDE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vs4vijay/Viz-ESP.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vs4vijay/Viz-ESP/issues"
+  },
+  "homepage": "https://github.com/vs4vijay/Viz-ESP#readme"
+}
